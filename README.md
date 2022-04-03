@@ -4,6 +4,6 @@ Repositorio para o desafio Git da DIO
 ## Desafio
 
 - [x] criar repositorio
-- [ ] importar para maquina
-- [ ] editar arquivo
-- [ ] enviar para repositorio
+- [x] importar para maquina
+- [x] editar arquivo
+- [x] enviar para repositorio
