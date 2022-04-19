@@ -26,7 +26,6 @@ header .container .logo {
   color: var(--logo);
   font-family: 'Arial Black';
   text-decoration: none;
-  font-size: 1.8em;
   display: inline-block;
   vertical-align: middle;
   cursor: pointer;
@@ -106,4 +105,8 @@ header nav a:hover{
   height: 100%;
   width: 100%;
   display: block;
+}
+
+.carroseu{
+  margin-top: 5px;
 }
